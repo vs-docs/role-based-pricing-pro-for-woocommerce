@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome](README.md)
 * [F.A.Q](faq.md)
 * [Addon / Integrations](untitled-1/README.md)
   * [Integrations](untitled-1/integrations/README.md)

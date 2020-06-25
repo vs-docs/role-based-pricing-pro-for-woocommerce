@@ -1,4 +1,4 @@
-# Initial page
+# Welcome
 
 This plugin can make your simple WooCommerce shop in to multi currency and price level marketplace where products can be offered at different prices for different customer groups.  
  For example, Subscribers or Contributors get different prices than new customers. Differentiate your registered users to get your shop more attractive. New roles can be created and managed.
